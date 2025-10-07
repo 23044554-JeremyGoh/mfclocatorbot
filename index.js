@@ -1377,13 +1377,33 @@ Use the menu below to get started:\n
   );
 });
 
-bot.launch();
+// -----------------------------
+// ✅ STARTUP SECTION
+// -----------------------------
 
-// exports.handler = (event, context, callback) => {
-//   const tmp = JSON.parse(event.body); // get data passed to us
-//   bot.handleUpdate(tmp); // make Telegraf process that data
-//   return callback(null, { // return something for webhook, so it doesn't try to send same stuff again
-//     statusCode: 200,
-//     body: '',
-//   });
-// };
+const express = require("express");
+const app = express();
+const PORT = process.env.PORT || 10000;
+
+// Tell Express to parse incoming JSON
+app.use(express.json());
+
+// Use webhook callback for Telegram updates
+app.use(bot.webhookCallback(`/webhook/${process.env.TELEGRAM_BOT_TOKEN}`));
+
+// Build webhook URL dynamically for Render
+const webhookUrl = `https://${process.env.RENDER_EXTERNAL_URL}/webhook/${process.env.TELEGRAM_BOT_TOKEN}`;
+
+// Register webhook with Telegram API
+bot.telegram
+  .setWebhook(webhookUrl)
+  .then(() => console.log(`✅ Webhook registered: ${webhookUrl}`))
+  .catch((err) => console.error("❌ Failed to set webhook:", err));
+
+// Simple health check endpoint (Render shows “Hello” if accessed via browser)
+app.get("/", (req, res) => res.send("✅ Montfort Care Telegram Bot is running on Render"));
+
+// Start Express server
+app.listen(PORT, () => {
+  console.log(`🚀 Server running on port ${PORT}`);
+});
