@@ -1378,38 +1378,37 @@ Use the menu below to get started:\n
 });
 
 // -----------------------------
-// ✅ STARTUP SECTION
+// ✅ STARTUP SECTION (FINAL VERSION)
 // -----------------------------
-
 const express = require("express");
 const app = express();
 const PORT = process.env.PORT || 10000;
 
-// Tell Express to parse incoming JSON
 app.use(express.json());
 
-app.post(`/webhook/${process.env.TELEGRAM_BOT_TOKEN}`, (req, res, next) => {
-  res.status(200).send("OK");   // ✅ reply immediately so Telegram stops timing out
-  next();                       // pass the update to Telegraf
-});
-
-
-// Use webhook callback for Telegram updates
-app.use(bot.webhookCallback(`/webhook/${process.env.TELEGRAM_BOT_TOKEN}`));
-
-// Build webhook URL dynamically for Render
+// Build webhook URL (Render automatically provides the full https:// URL)
 const webhookUrl = `${process.env.RENDER_EXTERNAL_URL}/webhook/${process.env.TELEGRAM_BOT_TOKEN}`;
 
-// Register webhook with Telegram API
-bot.telegram
-  .setWebhook(webhookUrl)
+// ✅ Telegram will send updates here
+app.post(`/webhook/${process.env.TELEGRAM_BOT_TOKEN}`, (req, res) => {
+  // Always respond quickly so Telegram doesn't time out or 502
+  res.status(200).send("OK");
+  // Process update asynchronously
+  bot.handleUpdate(req.body)
+    .catch((err) => console.error("❌ Error handling update:", err));
+});
+
+// ✅ Register webhook with Telegram
+bot.telegram.setWebhook(webhookUrl)
   .then(() => console.log(`✅ Webhook registered: ${webhookUrl}`))
   .catch((err) => console.error("❌ Failed to set webhook:", err));
 
-// Simple health check endpoint (Render shows “Hello” if accessed via browser)
-app.get("/", (req, res) => res.send("✅ Montfort Care Telegram Bot is running on Render"));
+// Health check route for browser
+app.get("/", (req, res) => {
+  res.send("✅ Montfort Care Telegram Bot is running on Render");
+});
 
-// Start Express server
+// Start the web server
 app.listen(PORT, () => {
   console.log(`🚀 Server running on port ${PORT}`);
 });
