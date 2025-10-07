@@ -1392,7 +1392,7 @@ app.use(express.json());
 app.use(bot.webhookCallback(`/webhook/${process.env.TELEGRAM_BOT_TOKEN}`));
 
 // Build webhook URL dynamically for Render
-const webhookUrl = `https://${process.env.RENDER_EXTERNAL_URL}/webhook/${process.env.TELEGRAM_BOT_TOKEN}`;
+const webhookUrl = `${process.env.RENDER_EXTERNAL_URL}/webhook/${process.env.TELEGRAM_BOT_TOKEN}`;
 
 // Register webhook with Telegram API
 bot.telegram
