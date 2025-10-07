@@ -1388,6 +1388,12 @@ const PORT = process.env.PORT || 10000;
 // Tell Express to parse incoming JSON
 app.use(express.json());
 
+app.post(`/webhook/${process.env.TELEGRAM_BOT_TOKEN}`, (req, res, next) => {
+  res.status(200).send("OK");   // ✅ reply immediately so Telegram stops timing out
+  next();                       // pass the update to Telegraf
+});
+
+
 // Use webhook callback for Telegram updates
 app.use(bot.webhookCallback(`/webhook/${process.env.TELEGRAM_BOT_TOKEN}`));
 
