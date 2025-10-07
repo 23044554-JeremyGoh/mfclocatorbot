@@ -1,0 +1,334 @@
+[
+  {
+    "name": "Montfort Care Family Service (Kreta Ayer)",
+    "address": "28A Kreta Ayer Road #01-03, Singapore 088995",
+    "phone": "+65 6325 4753",
+    "email": "familyservice@montfortcare.org.sg",
+    "lat": 1.280192,
+    "lng": 103.842309,
+    "category": "families"
+  },
+  {
+    "name": "Montfort Care Family Service (Marine Parade)",
+    "address": "53 Marine Terrace #01-227, Singapore 440053",
+    "phone": "+65 6445 0100",
+    "email": "familyservice@montfortcare.org.sg",
+    "lat": 1.3051404,
+    "lng": 103.9163366,
+    "category": "families"
+  },
+  {
+    "name": "Montfort Care Family Service (Telok Blangah)",
+    "address": "27 Telok Blangah Way #01-1018, Singapore 090027",
+    "phone": "+65 6270 8327",
+    "email": "familyservice@montfortcare.org.sg",
+    "lat": 1.2742364,
+    "lng": 103.8217147,
+    "category": "families"
+  },
+  {
+    "name": "FAM@FSC",
+    "address": "28 Telok Blangah Rise #01-219, Singapore 090028",
+    "phone": "+65 6100 2150",
+    "email": "fam@montfortcare.org.sg",
+    "lat": 1.2739477,
+    "lng": 103.820867,
+    "category": "families"
+  },
+  {
+    "name": "KidSTART",
+    "address": "Chinatown Point, 133 New Bridge Rd #14-04/05, Singapore 059413",
+    "email": "ksa@montfortcare.org.sg",
+    "lat": 1.2849989,
+    "lng": 103.8446971,
+    "category": "families"
+  },
+  {
+    "name": "Families for Life@Community (FFLC)",
+    "address": "28A Kreta Ayer Road #01-03, Singapore 090028",
+    "phone": "+65 6270 8327",
+    "email": "parenting@montfortcare.org.sg",
+    "lat": 1.2739477,
+    "lng": 103.820867,
+    "category": "families"
+  },
+  {
+    "name": "Montfort Care Child Protection (Bedok)",
+    "address": "426 Bedok North Road #01-515, Singapore 460426",
+    "phone": "+65 6445 0400",
+    "email": "childprotection@montfortcare.org.sg",
+    "lat": 1.3298007,
+    "lng": 103.9289857,
+    "category": "children"
+  },
+  {
+    "name": "Montfort Care Child Protection (Caritas Agape Village)",
+    "address": "Caritas Agape Village, 7 Lorong 8 Toa Payoh, Singapore 319264",
+    "phone": "+65 6445 0400",
+    "email": "childprotection@montfortcare.org.sg",
+    "lat": 1.3400818,
+    "lng": 103.8569858,
+    "category": "children"
+  },
+  {
+    "name": "Goodlife Studio (Bedok 609)",
+    "address": "609A Bedok Reservoir Road #01-1700, Singapore 471609",
+    "phone": "+65 8940 72310",
+    "email": "goodlifestudio.east@montfortcare.org.sg",
+    "lat": 1.3318286,
+    "lng": 103.911892,
+    "category": "seniors_active"
+  },
+  {
+    "name": "Goodlife Studio (Bedok 613B)",
+    "address": "613B Bedok Reservoir Road #01-1376, Singapore 472613",
+    "phone": "+65 6312 3988",
+    "email": "goodlifestudio.east@montfortcare.org.sg",
+    "lat": 1.3327874,
+    "lng": 103.9182224,
+    "category": "seniors_active"
+  },
+  {
+    "name": "Goodlife Studio (Bukit Purmei)",
+    "address": "108 Bukit Purmei Road #01-105, Singapore 090108",
+    "phone": "+65 6250 0244",
+    "email": "goodlifestudio.south@montfortcare.org.sg",
+    "lat": 1.2733574,
+    "lng": 103.8253459,
+    "category": "seniors_active"
+  },
+  {
+    "name": "Goodlife Studio (Marine Parade)",
+    "address": "15 Marine Terrace #01-18, Singapore 440015",
+    "phone": "+65 8940 0579",
+    "email": "goodlifestudio.east@montfortcare.org.sg",
+    "lat": 1.3048455,
+    "lng": 103.9142574,
+    "category": "seniors_active"
+  },
+  {
+    "name": "Goodlife Studio (Tampines 142)",
+    "address": "142 Tampines Street 12, Singapore 521142",
+    "phone": "+65 9113 4877",
+    "email": "goodlifestudio.east@montfortcare.org.sg",
+    "lat": 1.3486972,
+    "lng": 103.9448597,
+    "category": "seniors_active"
+  },
+  {
+    "name": "Goodlife Studio (Tampines 235)",
+    "address": "235 Tampines Street 21, Singapore 521235",
+    "phone": "+65 9674 3512",
+    "email": "goodlifestudio.east@montfortcare.org.sg",
+    "lat": 1.3554909,
+    "lng": 103.9482593,
+    "category": "seniors_active"
+  },
+  {
+    "name": "Goodlife Studio (Tampines 251)",
+    "address": "251 Tampines Street 21, Singapore 520251",
+    "phone": "+65 9734 1870",
+    "email": "goodlifestudio.east@montfortcare.org.sg",
+    "lat": 1.3527555,
+    "lng": 103.9481192,
+    "category": "seniors_active"
+  },
+  {
+    "name": "Goodlife Studio (Telok Blangah Towers)",
+    "address": "80B Telok Blangah Street 31 #01-115, Singapore 102080",
+    "phone": "+65 9298 8473",
+    "email": "goodlifestudio.south@montfortcare.org.sg",
+    "lat": 1.2734769,
+    "lng": 103.8068104,
+    "category": "seniors_active"
+  },
+  {
+    "name": "Goodlife Studio (Tiong Bahru)",
+    "address": "10B Boon Tiong Road #01-539, Singapore 164010",
+    "phone": "+65 8522 0537",
+    "email": "goodlifestudio.south@montfortcare.org.sg",
+    "lat": 1.2863369,
+    "lng": 103.8292048,
+    "category": "seniors_active"
+  },
+  {
+    "name": "Goodlife Studio (Yishun)",
+    "address": "838 Yishun Street 81 #01-322, Singapore 760838",
+    "phone": "+65 6484 8040",
+    "email": "goodlifestudio.north@montfortcare.org.sg",
+    "lat": 1.4164218,
+    "lng": 103.8335598,
+    "category": "seniors_active"
+  },
+  {
+    "name": "Goodlife Studio (Yishun Riverwalk)",
+    "address": "333B Yishun Street 31 #01-183, Singapore 762333",
+    "phone": "+65 9643 4032",
+    "email": "goodlifestudio.north@montfortcare.org.sg",
+    "lat": 1.4319305,
+    "lng": 103.8453078,
+    "category": "seniors_active"
+  },
+  {
+    "name": "Goodlife Makan",
+    "address": "52 Marine Terrace #01-189, Singapore 440052",
+    "phone": "+65 6702 0212",
+    "email": "goodlifemakan@montfortcare.org.sg",
+    "lat": 1.305848,
+    "lng": 103.9163069,
+    "category": "seniors_kitchen"
+  },
+  {
+    "name": "Community Case Management Service (CCMS)",
+    "address": "223 Mountbatten Road #02-18, Singapore 398008",
+    "phone": "+65 6242 3306",
+    "email": "ccms.east@montfortcare.org.sg",
+    "lat": 1.3084657,
+    "lng": 103.8789847,
+    "category": "seniors_home"
+  },
+  {
+    "name": "Home Personal Care (HPC) & HomeBathing",
+    "address": "6 Marine Terrace #01-206, Singapore 440006",
+    "phone": "+65 9710 1614",
+    "email": "goodlifeathome@montfortcare.org.sg",
+    "lat": 1.3037855,
+    "lng": 103.9164954,
+    "category": "seniors_home"
+  },
+  {
+    "name": "Post Diagnostic Support (PDS)",
+    "address": "223 Mountbatten Road #02-18, Singapore 398008",
+    "phone": "+65 6242 3309",
+    "email": "crest.pds@montfortcare.org.sg",
+    "lat": 1.3084657,
+    "lng": 103.8789847,
+    "category": "seniors_home"
+  },
+  {
+    "name": "National Anti-Violence & Sexual Harassment Helpline (NAVH)",
+    "address": "Online",
+    "phone": "+65 1800 777 0000",
+    "email": "https://form.gov.sg/6848fd0170bdce61637797a9",
+    "lat": null,
+    "lng": null,
+    "category": "anti_violence"
+  },
+  {
+    "name": "Mental Health Support Referral Form",
+    "address": "Online",
+    "phone": null,
+    "email": "forms.office.com/r/d9YQvP8idj",
+    "lat": null,
+    "lng": null,
+    "category": "mental_health"
+  },
+  {
+    "name": "COMIT (Bukit Merah)",
+    "address": "28 Telok Blangah Rise #01-219, Singapore 090028",
+    "phone": "+65 6274 6904",
+    "email": "comit.bm@montfortcare.org.sg",
+    "lat": 1.2739477,
+    "lng": 103.820867,
+    "category": "mental_health"
+  },
+  {
+    "name": "COMIT (Hougang)",
+    "address": "223 Mountbatten Road #02-18, Singapore 398008",
+    "phone": "+65 6242 3309",
+    "email": "comit.hg@montfortcare.org.sg",
+    "lat": 1.3084657,
+    "lng": 103.8789847,
+    "category": "mental_health"
+  },
+  {
+    "name": "COMIT (Kreta Ayer)",
+    "address": "133 New Bridge Road #04-01/11, Singapore 059413",
+    "phone": "+65 9711 5240",
+    "email": "comit.ka@montfortcare.org.sg",
+    "lat": 1.2849989,
+    "lng": 103.8446971,
+    "category": "mental_health"
+  },
+  {
+    "name": "COMIT (Marine Parade)",
+    "address": "613A Bedok Reservoir Road #01-1364, Singapore 471613",
+    "phone": "+65 6312 3988",
+    "email": "comit.mp@montfortcare.org.sg",
+    "lat": 1.3325696,
+    "lng": 103.9177509,
+    "category": "mental_health"
+  },
+  {
+    "name": "COMIT (Yishun)",
+    "address": "838 Yishun Street 81 #01-322, Singapore 760838",
+    "phone": "+65 6484 8040",
+    "email": "comit.ys@montfortcare.org.sg",
+    "lat": 1.4164218,
+    "lng": 103.8335598,
+    "category": "mental_health"
+  },
+  {
+    "name": "CREST (East) – Marine Terrace",
+    "address": "52 Marine Terrace #01-189, Singapore 440052",
+    "phone": "+65 6702 0212",
+    "email": "crest.east@montfortcare.org.sg",
+    "lat": 1.305848,
+    "lng": 103.9163069,
+    "category": "mental_health"
+  },
+  {
+    "name": "CREST (East) – Bedok Reservoir",
+    "address": "613B Bedok Reservoir Road #01-1376, Singapore 472613",
+    "phone": "+65 6312 3988",
+    "email": "crest.east@montfortcare.org.sg",
+    "lat": 1.3327874,
+    "lng": 103.9182224,
+    "category": "mental_health"
+  },
+  {
+    "name": "CREST (North)",
+    "address": "838 Yishun Street 81 #01-322, Singapore 760838",
+    "phone": "+65 6484 8040",
+    "email": "crest.north@montfortcare.org.sg",
+    "lat": 1.4164218,
+    "lng": 103.8335598,
+    "category": "mental_health"
+  },
+  {
+    "name": "CREST (South)",
+    "address": "28 Telok Blangah Rise #01-219, Singapore 090028",
+    "phone": "+65 6274 6904",
+    "email": "crest.south@montfortcare.org.sg",
+    "lat": 1.2739477,
+    "lng": 103.820867,
+    "category": "mental_health"
+  },
+    {
+    "name": "CREST (South) - Chinatown Point",
+    "address": "Chinatown Point, 133 New Bridge Rd #14-05, Singapore 059413",
+    "phone": "+65 6274 6904",
+    "email": "crest.south@montfortcare.org.sg",
+    "lat": 1.2739477,
+    "lng": 103.820867,
+    "category": "mental_health"
+  },
+  {
+    "name": "JiaYou – Senior & Caregiver Hub",
+    "address": "133 New Bridge Rd #04-01, Singapore 059413",
+    "phone": "+65 8343 3224",
+    "email": "inquiry@jiayou.org.sg",
+    "lat": 1.2849989,
+    "lng": 103.8446971,
+    "category": "caregiving"
+  },
+  {
+    "name": "Young-At-Heart (YAH!)",
+    "address": "133 New Bridge Rd #04-01, Singapore 059413",
+    "phone": "+65 6445 0300",
+    "email": "contact@yah.org.sg",
+    "lat": 1.2849989,
+    "lng": 103.8446971,
+    "category": "caregiving"
+  }
+]

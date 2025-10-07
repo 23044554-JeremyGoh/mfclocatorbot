@@ -1,0 +1,523 @@
+[
+  {
+    "activityName": "Goodlife Workout",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Exercise sessions designed to improve seniors' mobility, balance, and strength.",
+    "activityDate": [
+      "2025-08-04T00:00:00.000Z",
+      "2025-08-11T00:00:00.000Z",
+      "2025-08-18T00:00:00.000Z",
+      "2025-08-25T00:00:00.000Z"
+    ],
+    "activityTime": "10:00 AM – 11:00 AM",
+    "signUpInstruction": "Call 6312 3988 or 8940 7231 to register.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "KUEH Klub!",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Join us for a cozy afternoon of kuih-making and sharing memories over sweet treats.",
+    "activityDate": [
+      "2025-08-11T00:00:00.000Z",
+      "2025-08-25T00:00:00.000Z"
+    ],
+    "activityTime": "2:00 PM – 3:30 PM",
+    "signUpInstruction": "Call 6312 3988 or 8940 7231 to register.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Square Stepping",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Improve your balance and cognitive agility with square stepping exercises.",
+    "activityDate": [
+      "2025-08-05T00:00:00.000Z",
+      "2025-08-12T00:00:00.000Z",
+      "2025-08-19T00:00:00.000Z",
+      "2025-08-26T00:00:00.000Z"
+    ],
+    "activityTime": "10:00 AM – 11:00 AM",
+    "signUpInstruction": "Register in person at Blk 609A.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Bingo and Tambola Games",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Fun-filled sessions of bingo and tambola to test your luck and reflexes!",
+    "activityDate": [
+      "2025-08-05T00:00:00.000Z",
+      "2025-08-12T00:00:00.000Z",
+      "2025-08-19T00:00:00.000Z",
+      "2025-08-26T00:00:00.000Z"
+    ],
+    "activityTime": "11:00 AM – 12:00 PM",
+    "signUpInstruction": "Walk-in. Held at Blk 609A.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Cook With Me: Healthy Desserts",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Learn to prepare delicious yet healthy desserts together! *Fees apply.",
+    "activityDate": [
+      "2025-08-19T00:00:00.000Z",
+      "2025-08-26T00:00:00.000Z"
+    ],
+    "activityTime": "3:00 PM – 4:30 PM",
+    "signUpInstruction": "Register at the centre. Fees apply.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "CGH Community Nurse-Led Service",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Drop-in nurse-led health checks, advice, and referrals.",
+    "activityDate": [
+      "2025-08-06T00:00:00.000Z",
+      "2025-08-13T00:00:00.000Z",
+      "2025-08-20T00:00:00.000Z",
+      "2025-08-27T00:00:00.000Z"
+    ],
+    "activityTime": "2:00 PM – 5:00 PM",
+    "signUpInstruction": "Call 6312 3988 to sign up.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Aerobics Exercise with Coach Raymond",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Energizing aerobics to boost stamina and flexibility.",
+    "activityDate": [
+      "2025-08-06T00:00:00.000Z",
+      "2025-08-13T00:00:00.000Z",
+      "2025-08-20T00:00:00.000Z"
+    ],
+    "activityTime": "10:00 AM – 11:00 AM",
+    "signUpInstruction": "Call 6312 3988 to sign up.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Happy-Easy-Art (Basic)",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Beginner-friendly art class with simple creative techniques.",
+    "activityDate": [
+      "2025-08-13T00:00:00.000Z",
+      "2025-08-27T00:00:00.000Z"
+    ],
+    "activityTime": "10:30 AM – 12:00 PM",
+    "signUpInstruction": "Walk-in at Blk 609A.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Magic Blox",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Brain-training games with blocks and puzzles.",
+    "activityDate": [
+      "2025-08-06T00:00:00.000Z",
+      "2025-08-13T00:00:00.000Z",
+      "2025-08-20T00:00:00.000Z",
+      "2025-08-27T00:00:00.000Z",
+      "2025-08-29T00:00:00.000Z"
+    ],
+    "activityTime": "2:00 PM – 3:00 PM",
+    "signUpInstruction": "No registration required. Held at Blk 609A.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "HPB Tai Chi",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Gentle Tai Chi for balance, coordination, and relaxation.",
+    "activityDate": [
+      "2025-08-08T00:00:00.000Z",
+      "2025-08-15T00:00:00.000Z",
+      "2025-08-29T00:00:00.000Z"
+    ],
+    "activityTime": "10:00 AM – 11:00 AM",
+    "signUpInstruction": "Pre-register on 31/7 at 609A (11am)",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Batik Painting Art",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Learn traditional batik techniques and make your own designs.",
+    "activityDate": [
+      "2025-08-21T00:00:00.000Z",
+      "2025-08-28T00:00:00.000Z",
+      "2025-09-04T00:00:00.000Z",
+      "2025-09-11T00:00:00.000Z",
+      "2025-09-18T00:00:00.000Z",
+      "2025-09-25T00:00:00.000Z"
+    ],
+    "activityTime": "2:00 PM – 4:00 PM",
+    "signUpInstruction": "Pre-register on 31/7 at 609A (11am)",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Morning Exercise",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Light morning workout for flexibility and energy.",
+    "activityDate": [
+      "2025-08-08T00:00:00.000Z",
+      "2025-08-15T00:00:00.000Z",
+      "2025-08-29T00:00:00.000Z"
+    ],
+    "activityTime": "9:30 AM – 10:30 AM",
+    "signUpInstruction": "Held at Blk 609A.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Prudential Game Carnival",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Fun carnival games by Prudential for seniors to enjoy.",
+    "activityDate": [
+      "2025-08-01T00:00:00.000Z"
+    ],
+    "activityTime": "10:00 AM – 11:00 AM",
+    "signUpInstruction": "Held at Blk 609A.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Bingo and Tambola Games",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Fun-filled sessions of bingo and tambola to test your luck and reflexes!",
+    "activityDate": [
+      "2025-08-01T00:00:00.000Z",
+      "2025-08-08T00:00:00.000Z",
+      "2025-08-15T00:00:00.000Z",
+      "2025-08-29T00:00:00.000Z"
+    ],
+    "activityTime": "1:00 PM – 2:00 PM",
+    "signUpInstruction": "Held at Blk 609A.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Rummikub Match Club",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Play Rummikub with fellow members for fun and mental stimulation.",
+    "activityDate": [
+      "2025-08-01T00:00:00.000Z",
+      "2025-08-08T00:00:00.000Z",
+      "2025-08-15T00:00:00.000Z",
+      "2025-08-29T00:00:00.000Z"
+    ],
+    "activityTime": "2:30 PM – 5:00 PM",
+    "signUpInstruction": "Held at Blk 609A.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "SG60 Fun & Games @ 609A",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Celebrate SG60 with games, music, and bonding..",
+    "activityDate": [
+      "2025-08-04T00:00:00.000Z"
+    ],
+    "activityTime": "03:30 PM – 05:00 PM",
+    "signUpInstruction": "Registration required at 609A reception",
+    "recommendedAudience": "All",
+    "isHighlight": true,
+    "highlightNote": "New",
+    "highlightOrder": 1
+  },
+  {
+    "activityName": "YO-YO (Trial Class)",
+    "centre": "Goodlife Studio (Bedok 609)",
+    "description": "Try out a new workout in this one-off trial.",
+    "activityDate": [
+      "2025-08-21T00:00:00.000Z"
+    ],
+    "activityTime": "02:00 PM – 03:00 PM",
+    "signUpInstruction": "Registration required at 609A reception",
+    "recommendedAudience": "All",
+    "isHighlight": true,
+    "highlightNote": "New",
+    "highlightOrder": 2
+  },
+    {
+    "activityName": "HPB Stretchband Exercise",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Exercise sessions designed to improve seniors' mobility, balance, and strength.",
+    "activityDate": [
+      "2025-08-04T00:00:00.000Z",
+      "2025-08-11T00:00:00.000Z",
+      "2025-08-18T00:00:00.000Z",
+      "2025-08-25T00:00:00.000Z"
+    ],
+    "activityTime": "09:30 AM – 10:30 AM",
+    "signUpInstruction": "Pre-register on 28/7 at 613B (9am).",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Paper Quilling Art",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Create decorative designs using paper strips and quilling tools.",
+    "activityDate": [
+      "2025-08-11T00:00:00.000Z",
+      "2025-08-25T00:00:00.000Z"
+    ],
+    "activityTime": "10:30 AM – 12:00 PM",
+    "signUpInstruction": "*Fees Apply* (Material Cost separately) Register at Blk 613B",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Rummikub Competition",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Friendly Rummikub competition to train the brain and have fun together.",
+    "activityDate": [
+      "2025-08-04T00:00:00.000Z",
+      "2025-08-11T00:00:00.000Z",
+      "2025-08-18T00:00:00.000Z",
+      "2025-08-25T00:00:00.000Z"
+    ],
+    "activityTime": "2:00 PM – 5:00 PM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "Seniors"
+  },
+    {
+    "activityName": "Magic Blox",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Brain-training games with blocks and puzzles.",
+    "activityDate": [
+      "2025-08-04T00:00:00.000Z",
+      "2025-08-11T00:00:00.000Z",
+      "2025-08-18T00:00:00.000Z",
+      "2025-08-25T00:00:00.000Z"
+    ],
+    "activityTime": "2:00 PM – 5:00 PM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "Seniors"
+  },
+
+  {
+    "activityName": "Yoga for Seniors",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Gentle yoga to enhance flexibility, posture, and mindfulness.",
+    "activityDate": [
+      "2025-08-05T00:00:00.000Z",
+      "2025-08-12T00:00:00.000Z",
+      "2025-08-19T00:00:00.000Z",
+      "2025-08-26T00:00:00.000Z"
+    ],
+    "activityTime": "10:00 AM – 11:00 AM",
+    "signUpInstruction": "*Fees Apply* Pre-register on 29/7 at 613B (9am).",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Chinese Ink Painting Art",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Explore traditional Chinese ink techniques and create your own art pieces.",
+    "activityDate": [
+      "2025-08-12T00:00:00.000Z",
+      "2025-08-26T00:00:00.000Z"
+    ],
+    "activityTime": "2:00 PM – 5:00 PM",
+    "signUpInstruction": "*Fees Apply*",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Adaptive Sports Exercise",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Inclusive movement session using adaptive sports equipment.",
+    "activityDate": [
+      "2025-08-05T00:00:00.000Z",
+      "2025-08-12T00:00:00.000Z",
+      "2025-08-19T00:00:00.000Z"
+    ],
+    "activityTime": "1:30 PM – 3:00 PM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "CGH Community Nurse-Led Service (4th week of every month)" ,
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Inclusive movement session using adaptive sports equipment.",
+    "activityDate": null,
+    "activityTime": "2:00 PM – 5:00 PM",
+    "signUpInstruction": "If you would like to meet the nurse for consultation. Please approach staff to make referral",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "CGH Talk: ABC to Healthy Lifestyle (Mandarin)",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Health talk by CGH on building a healthy lifestyle.",
+    "activityDate": ["2025-08-19T00:00:00.000Z"],
+    "activityTime": "2:00 PM – 3:00 PM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "All",
+    "isHighlight": true,
+    "highlightNote": "New",
+    "highlightOrder": 1
+  },
+
+  {
+    "activityName": "Aerobics Exercise with Coach Raymond!",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Energizing aerobics to boost stamina and flexibility.",
+    "activityDate": [
+      "2025-08-06T00:00:00.000Z",
+      "2025-08-13T00:00:00.000Z",
+      "2025-08-20T00:00:00.000Z"
+    ],
+    "activityTime": "10:00 AM – 11:00 AM",
+    "signUpInstruction": "Held at Eunos Cultural Centre (Blk 70A).",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Sip & Mingle with YAH!",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Social hour with Young-At-Heart — mingle and make new friends over light refreshments.",
+    "activityDate": [
+      "2025-08-06T00:00:00.000Z",
+      "2025-08-20T00:00:00.000Z"
+    ],
+    "activityTime": "12:00 PM – 2:00 PM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "HPB Chair Zumba",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Seated Zumba dance fitness for all mobility levels.",
+    "activityDate": [
+      "2025-08-13T00:00:00.000Z",
+      "2025-08-20T00:00:00.000Z",
+      "2025-08-27T00:00:00.000Z"
+    ],
+    "activityTime": "2:00 PM – 3:00 PM",
+    "signUpInstruction": "Pre-register on 30/7 at 613B (1.30pm).",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Negomi Art",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Art jam with soft kneading techniques. Materials provided; costs apply separately.",
+    "activityDate": [
+      "2025-08-13T00:00:00.000Z",
+      "2025-08-27T00:00:00.000Z"
+    ],
+    "activityTime": "3:30 PM – 5:30 PM",
+    "signUpInstruction": "*Fees Apply* (Material Cost separately) Register at Blk 613B",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Sleep Better, Live Better",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Health talk on improving sleep quality for better health.",
+    "activityDate": [
+      "2025-08-20T00:00:00.000Z"
+      
+    ],
+    "activityTime": "3:30 PM – 4:30 PM",
+    "signUpInstruction": null,
+    "recommendedAudience": "Seniors"
+  },
+
+  {
+    "activityName": "Square Stepping",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Balance and cognitive training using patterned stepping.",
+    "activityDate": [
+      "2025-08-07T00:00:00.000Z",
+      "2025-08-14T00:00:00.000Z",
+      "2025-08-28T00:00:00.000Z"
+    ],
+    "activityTime": "10:00 AM – 11:00 AM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "Seniors"
+  },
+    {
+    "activityName": "Prudential Game Carnival",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Carnival-style games hosted by Prudential for seniors.",
+    "activityDate": ["2025-08-21T00:00:00.000Z"],
+    "activityTime": "10:00 AM – 11:00 AM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Genconnect: National Day Celebration",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Celebrate National Day with games and community activities.",
+    "activityDate": ["2025-08-07T00:00:00.000Z"],
+    "activityTime": "10:00 AM – 11:00 AM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "All"
+  },
+  {
+    "activityName": "Communal Potluck!",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Bring a dish and share a meal with the community.",
+    "activityDate": ["2025-08-14T00:00:00.000Z"],
+    "activityTime": "12:00 PM – 3:00 PM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "All"
+  },
+
+  {
+    "activityName": "CGH Talk: Falls Prevention (Malay)",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Health talk in Malay on fall prevention strategies.",
+    "activityDate": ["2025-08-21T00:00:00.000Z"],
+    "activityTime": "2:00 PM – 3:00 PM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "All",
+    "isHighlight": true,
+    "highlightNote": "New",
+    "highlightOrder": 2
+  },
+  {
+    "activityName": "Pasir Ris Outing: Seaweed and Traditional Herb Garden",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Outdoor trip to explore seaweed and a traditional herb garden.",
+    "activityDate": ["2025-08-07T00:00:00.000Z"],
+    "activityTime": "2:10 PM – 5:30 PM",
+    "signUpInstruction": "Register at 613B (Bus Provided). *Fees apply*.",
+    "recommendedAudience": "All",
+    "isHighlight": true,
+    "highlightNote": "Fees Apply • Bus Provided",
+    "highlightOrder": 4
+  },
+
+  {
+    "activityName": "Morning TV Club",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Watch and discuss favourite TV programmes together.",
+    "activityDate": [
+      "2025-08-01T00:00:00.000Z",
+      "2025-08-08T00:00:00.000Z",
+      "2025-08-29T00:00:00.000Z"
+    ],
+    "activityTime": "11:00 AM – 12:00 PM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Full Body Fitness: Flex and Fit",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Full-body conditioning to improve flexibility and strength.",
+    "activityDate": [
+      "2025-08-01T00:00:00.000Z",
+      "2025-08-08T00:00:00.000Z",
+      "2025-08-29T00:00:00.000Z"
+    ],
+    "activityTime": "2:00 PM – 3:00 PM",
+    "signUpInstruction": "*Fees apply*.",
+    "recommendedAudience": "Seniors"
+  },
+  {
+    "activityName": "Temasek Junior College: Art and Crafts",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Intergenerational art and craft session with students from TJC.",
+    "activityDate": ["2025-08-15T00:00:00.000Z"],
+    "activityTime": "4:30 PM – 5:30 PM",
+    "signUpInstruction": "Held at Blk 613B.",
+    "recommendedAudience": "All"
+  },
+  {
+    "activityName": "SG60 Music & Fun! @ 613B",
+    "centre": "Goodlife Studio (Bedok 613B)",
+    "description": "Community music and games as part of SG60 festivities.",
+    "activityDate": ["2025-08-08T00:00:00.000Z"],
+    "activityTime": "3:30 PM – 5:30 PM",
+    "signUpInstruction": "Registration required at 613B.",
+    "recommendedAudience": "All",
+    "isHighlight": true,
+    "highlightNote": "Registration Required",
+    "highlightOrder": 3
+  }
+]
