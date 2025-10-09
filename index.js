@@ -1377,6 +1377,8 @@ Use the menu below to get started:\n
   );
 });
 
+// bot.launch();
+
 // -----------------------------
 // ✅ STARTUP SECTION (FINAL VERSION)
 // -----------------------------
